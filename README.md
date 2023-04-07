@@ -39,7 +39,7 @@ To deploy the contract to a local network, execute the following command:
 ```
 npx hardhat run scripts/cbdc-deploy.js --network hardhat
 ```
-Replace ```hardhat``` with the name of the network you want to deploy to (e.g. goerli, mainnet, etc.) and make sure you have the corresponding configuration in the hardhat.config.js file.
+Replace ```hardhat``` with the name of the network you want to deploy to (e.g. goerli, mainnet, etc.) and make sure you have the corresponding configuration in the `hardhat.config.js` file.
 
 ## Goerli
 [Link](https://goerli.etherscan.io/address/0x16FD77B210B93024C9D20EFB1650Bc6C187fF523#code) to the verified contract in the Goerli network.
